@@ -1,0 +1,10 @@
+// Block data model
+
+{
+  "hash": "",
+  "height": 0,
+  "prev_block": "",
+  "time": 0,
+  "body": [
+  ]
+}
